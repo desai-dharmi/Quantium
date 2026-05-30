@@ -16,7 +16,8 @@ app.layout = html.Div([
             "textAlign": "center",
             "color": "#2c3e50",
             "marginBottom": "20px"
-        }
+        },
+        id="dashboard-header"
     ),
 
     html.Div([
